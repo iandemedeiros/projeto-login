@@ -34,10 +34,6 @@
     #form p{
         font-size: 1em;
     }
-    .campo input{
-        width: 90%;
-    }
-    
 }
 
 
@@ -65,9 +61,6 @@
     }
     #form p{
         font-size: 1.2em;
-    }
-    .campo input{
-        width: 92%;
     }
 }
 
@@ -98,22 +91,5 @@
         font-size: 1.6em;
         margin: 10px;
     }
-    .campo input{
-        width: 93%;
-    }
-    #entrar{
-        height: 60px;
-        margin-top: 74px;
-    }
-    #login a{
-        height: 60px;
-        padding-top: 15px;
-    }
-    .campo{
-        height: 60px;
-    }
-    .campo input{
-        padding-bottom: 20px;
-        font-size: 1.2em;
-    }
+    
 }
