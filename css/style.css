@@ -64,7 +64,9 @@ main{
     height: 100%;
     padding: 4px;
     width: calc(100% - 34px);
-    
+}
+.campo input:focus-within{
+    background-color: white;
 }
 .campo{
     background-color: var(--fontlilas);
